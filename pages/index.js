@@ -1,4 +1,5 @@
-import Image from 'next/image';
+//import Image from 'next/image';
+import Image from 'next/legacy/image'
 import styles from '../styles/Home.module.css'
 import PageLayout from '../components/PageLayout';
 import { useEffect, useState } from 'react';
